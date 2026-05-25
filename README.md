@@ -13,7 +13,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 - [simulation](#simulation): simulate how photons propagate, and optimize the geometrical shapes
 - [lab automation](#lab-automation): Control instruments in the lab
 - [data analysis](#data-analysis)
-- [visualization](#visualizatio)
+- [visualization](#visualization)
 - [electronics](#electronics)
 - [knowledge base](#knowledge-base)
 - [other links](#other-links)
